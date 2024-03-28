@@ -1,0 +1,7 @@
+Scene 1 uses the strategy of buying the stock at the opening price and sell it at the closing price, thus earning profit from the price difference within a day.
+
+Scene 2 involves purchasing the stock at the closing price and selling it at the next day’s opening price. The profit it earn is after the market close, through the price difference between the previous closing price and the opening price of the next day.
+
+In Scene 3, the approach is is to buy at the first day open price and sell it at the most recent day’s closing price. The profit is gained from the price difference between the opening price at the first day and the closing price at the most recent day.
+
+I selected the data from the time period between March, 11, 1999, and March,18, 1999, to compare the performance of QQQ and  SPY. The result indicate that QQQ outperforms SPY in all three scenarios.
